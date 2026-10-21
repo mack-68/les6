@@ -17,12 +17,12 @@
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 
 ## Status
-![status](images/1.png)
+![status](images/2.png)
 
 ---
 
 ## Beurtenlog
-- beurt1: <Toby> gokt "G"
+- beurt1: <Toby> gokt "G" het is fout
 - (Git-master vult hier reactie in: goed/fout + updates)
 - beurt2: ...
 =======
