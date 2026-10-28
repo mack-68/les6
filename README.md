@@ -27,5 +27,5 @@
 - beurt2: ...
 =======
 # les6
-Zonnebloemen
+
 >>>>>>> 77a04c91a33f62fae057a2bc398322713c5f8bfc
