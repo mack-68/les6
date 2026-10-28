@@ -27,7 +27,7 @@
 - beurt2: <toby> gokt "a"
 - beurt3: <mehmet> gokt "o"
 - beurt4: <sem> gokt "e"
-- beurt5: <mehmet> gokt "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z"
+- beurt5: <toby> gokt "c"
 =======
 # les6
 
