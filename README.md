@@ -24,7 +24,7 @@
 ## Beurtenlog
 - beurt1: <Toby> gokt "G" het is fout
 - (Git-master vult hier reactie in: goed/fout + updates)
-- beurt2: ...
+- beurt2: <toby> gokt "a"
 =======
 # les6
 
