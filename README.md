@@ -26,6 +26,7 @@
 - (Git-master vult hier reactie in: goed/fout + updates)
 - beurt2: <toby> gokt "a"
 - beurt3: <mehmet> gokt "o"
+- beurt4: <sem> gokt "e"
 =======
 # les6
 
